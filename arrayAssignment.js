@@ -9,13 +9,6 @@ for (let value of uniqueValues) {
      console.log(value);
 }
 
- //print multiplication table 2
-// let sum = 0;
-// for(let i = 1; i<13; i++){
-//      let mult = 2*i;
-//      sum = sum + mult;  
-// }
-// console.log(sum);
 
 
 
